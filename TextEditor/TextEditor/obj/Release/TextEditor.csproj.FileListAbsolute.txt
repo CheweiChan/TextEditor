@@ -1,0 +1,8 @@
+c:\users\wei\documents\visual studio 2015\Projects\TextEditor\TextEditor\bin\Release\TextEditor.exe.config
+c:\users\wei\documents\visual studio 2015\Projects\TextEditor\TextEditor\bin\Release\TextEditor.exe
+c:\users\wei\documents\visual studio 2015\Projects\TextEditor\TextEditor\bin\Release\TextEditor.pdb
+c:\users\wei\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Release\TextEditor.Properties.Resources.resources
+c:\users\wei\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Release\TextEditor.csproj.GenerateResource.Cache
+c:\users\wei\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Release\TextEditor.exe
+c:\users\wei\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Release\TextEditor.pdb
+c:\users\wei\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Release\TextEditor.TextEditor.resources
