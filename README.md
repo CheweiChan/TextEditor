@@ -1,2 +1,2 @@
 # TextEditor
-file to .txt use C#
+file to txt
